@@ -13,6 +13,7 @@
 <div align="center">
 <h1>Certificados</h>
 </div>
-![Certificado Primeiros Passos Com JavaScript]()
+
+![Certificado Primeiros Passos Com JavaScript](https://github.com/Alisson-AR/JavaScript_Bootcamp/blob/master/Certificados/Primeiros%20Passos%20Com%20JavaScript.pdf)
 
 
