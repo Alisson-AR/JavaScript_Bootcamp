@@ -9,10 +9,10 @@
 Por fim imprimir no console o valor que será gasto em combustivel para a viagem. */
 
 console.log('CALCULO DE GASTO DO COMBUSTIVEL:');
-const vgasolina = 6.98; //valor gasolina
+const vgasolina = 5.95; //valor gasolina
 const vetanol = 2.85; //valor etanol
 const consumo = 10; //Faz 10km por litro
-const km = 460; //Kms que serão percorridos
+const km = 500; //Kms que serão percorridos
 tipoCombustivel = 'Gasolina';
 
 if (tipoCombustivel === 'Gasolina'){
