@@ -9,6 +9,8 @@
 - [student_average.js :](https://github.com/Alisson-AR/JavaScript_Bootcamp/blob/master/JavaScript_Fundamentals/student_average.js) Calcula a média do aluno e retorna se o mesmo reprovou, se ficou de recuperação ou se foi aprovado.
 - [body_mass_index.js :](https://github.com/Alisson-AR/JavaScript_Bootcamp/blob/master/JavaScript_Fundamentals/body_mass_index.js) Calcula o IMC (Índice de massa corporal) e retorna a condição da pessoa com base no resultado.
 - [business_math.js :](https://github.com/Alisson-AR/JavaScript_Bootcamp/blob/master/JavaScript_Fundamentals/business_math.js) Calcula o que deve ser pago por um produto, considerando as formas pagamento.
+- [functions.js :](https://github.com/Alisson-AR/JavaScript_Bootcamp/blob/master/JavaScript_Fundamentals/functions.js) Familiarizando com funções, contém três exemplos.
+- [aplying_functions.js :](https://github.com/Alisson-AR/JavaScript_Bootcamp/blob/master/JavaScript_Fundamentals/aplying_functions.js) Aplicando os conceitos de função usando como base o [body_mass_index](https://github.com/Alisson-AR/JavaScript_Bootcamp/blob/master/JavaScript_Fundamentals/body_mass_index.js).
 
 <div align="center">
 <h1>Certificados</h>
